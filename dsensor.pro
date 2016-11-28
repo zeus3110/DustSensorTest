@@ -1,4 +1,4 @@
-update=2016/11/08 22:48:37
+update=2016/11/28 21:40:11
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,7 +62,7 @@ LibName30=C:/KiCAD/CompornentLib/zeus3110
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=
+PlotDirectoryName=C:/KiCAD/DustSensorTest/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=
